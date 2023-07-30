@@ -1,0 +1,16 @@
+name: data-science
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pip
+  - statsmodels
+  - regex
+  
